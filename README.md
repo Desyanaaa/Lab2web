@@ -47,7 +47,7 @@ Inline
 <img width="647" alt="inline" src="https://user-images.githubusercontent.com/76044697/160115516-7a1dd2c4-8e19-4e8e-af87-981dc83b0540.PNG">
 Halaman web akan menghasilkan warna text merah mengikuti sintaks pada inline css :
 <img width="1012" alt="hasil inline" src="https://user-images.githubusercontent.com/76044697/160115831-a591e7b9-644a-46e8-a522-653f0aed2270.PNG">
-<h3>Pada sebuah elemen HTML terdapat ID dan Class, apabila masing-masing selector tersebut
+<h3>4. Pada sebuah elemen HTML terdapat ID dan Class, apabila masing-masing selector tersebut
 terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browser?</h3>
 Deklarasi yang akan ditampilkan antara id dan class adalah id, karena id merupakan entitas unik dan merupakan prioritas. Dapat dilihat pada contoh berikut yang dilingkari merah :
 <img width="640" alt="coding id" src="https://user-images.githubusercontent.com/76044697/160117793-f026e37c-1687-4a46-b743-c9e59b11f4fa.PNG">
