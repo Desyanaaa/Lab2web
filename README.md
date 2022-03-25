@@ -28,3 +28,28 @@ Apabila dibuka di browser akan memberikan tampilan :</p>
 <p>CSS selector ditambahkan pada file css eksternal<br/>
   Setelah disimpan maka halaman web akan menampilkan :</p>
   <img width="960" alt="hasil5" src="https://user-images.githubusercontent.com/76044697/160050713-28a76853-90de-46b6-b27a-d039df268544.PNG">
+<h1>Jawaban Soal</h1>
+<h3>1. Bereksperimen pada kode CSS </h3>
+Saya bereksperimen menambahkan paragraf baru serta css untuk mengubah warna dari isi paragraph tersebut.
+<img width="646" alt="coding eksperimen" src="https://user-images.githubusercontent.com/76044697/160119997-90829c82-5ede-4709-85c3-759d2aa65c69.PNG">
+Halaman web akan menampilkan :
+<img width="960" alt="hasil eksperimen" src="https://user-images.githubusercontent.com/76044697/160120084-fe1f86fb-f1dc-4130-bd97-b552d1b645fb.PNG">
+<h3>2. Perbedaan elemen h1 {...} dengan #intro h1 {...}</h3>
+<p>Pada sintaks CSS, h1{..} berfungsi untuk memberikan visual css kepada seluruh tag h1 di html, sedangkan #intro h1{..} berfungsi untuk memberikan visual css kepada seluruh tag h1 yang memiliki id dengan nama "intro".</p>
+  <h3>3. Apabila ada deklarasi CSS secara internal, lalu ditambahkan CSS eksternal dan inline CSS pada
+elemen yang sama. Deklarasi manakah yang akan ditampilkan pada browser?</h3>
+<p>Apabila 3 deklarasi css diberikan pada elemen yang sama maka yang jadi prioritas untuk ditampilkan pada browser adalah deklarasi inline css. Berikut contohnya yang digaris bawahi merah: </p>
+Eksternal
+<img width="406" alt="eksternal" src="https://user-images.githubusercontent.com/76044697/160115144-9fbabac5-6440-469a-8f2c-c0ef5c11be26.PNG">
+Internal
+<img width="296" alt="internal" src="https://user-images.githubusercontent.com/76044697/160115483-e4961f90-c7b0-49ae-b918-32736f9deb3a.PNG">
+Inline
+<img width="647" alt="inline" src="https://user-images.githubusercontent.com/76044697/160115516-7a1dd2c4-8e19-4e8e-af87-981dc83b0540.PNG">
+Halaman web akan menghasilkan warna text merah mengikuti sintaks pada inline css :
+<img width="1012" alt="hasil inline" src="https://user-images.githubusercontent.com/76044697/160115831-a591e7b9-644a-46e8-a522-653f0aed2270.PNG">
+<h3>Pada sebuah elemen HTML terdapat ID dan Class, apabila masing-masing selector tersebut
+terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browser?</h3>
+Deklarasi yang akan ditampilkan antara id dan class adalah id, karena id merupakan entitas unik dan merupakan prioritas. Dapat dilihat pada contoh berikut yang dilingkari merah :
+<img width="640" alt="coding id" src="https://user-images.githubusercontent.com/76044697/160117793-f026e37c-1687-4a46-b743-c9e59b11f4fa.PNG">
+Halaman web akan menampilkan :
+<img width="960" alt="hasil id" src="https://user-images.githubusercontent.com/76044697/160118056-aedfc8a6-fddd-465f-8752-0fa6fbb17537.PNG">
